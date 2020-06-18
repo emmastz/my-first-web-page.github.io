@@ -112,11 +112,11 @@ p, ul, ol {
 
 .link {
   margin: 10px 30px;
-  color: #9F3442;
+  color: #606060;
 }
 
 .link:hover {
-  color: #458D2E;
+  color: #606060;
 }
 
 .horizontal-position {
